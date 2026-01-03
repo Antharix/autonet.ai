@@ -6,7 +6,7 @@
   Autonomous Infrastructure for Cisco • Palo Alto • Aruba
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Local%20LLM-Gemma%20%7C%20Mistral%20%7C%20LLaMA-cyan">
+  <img src="https://img.shields.io/badge/Local%20LLM-Gemma%20%2F%20Mistral%20%2F%20LLaMA-cyan">
   <img src="https://img.shields.io/badge/Digital%20Twin-EVE--NG-blue">
   <img src="https://img.shields.io/badge/Status-Active%20Development-green">
 </p>
