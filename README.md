@@ -1,112 +1,39 @@
-🚀 AUTONET.AI
-Autonomous Infrastructure for Modern Enterprises
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:06b6d4&height=220&section=header&text=AUTONET.AI&fontSize=60&fontColor=38bdf8&animation=fadeIn&desc=Autonomous%20Enterprise%20Network%20AI%20Platform&descAlignY=75"/>
+</p>
+<p align="center">
+  <b>Self-Healing • Policy-Governed • Air-Gapped • Production-Ready</b><br>
+  Autonomous Infrastructure for Cisco • Palo Alto • Aruba • SD-WAN • BlueCat
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Local%20LLM-Gemma%20%7C%20Mistral%20%7C%20LLaMA-cyan">
+  <img src="https://img.shields.io/badge/Digital%20Twin-EVE--NG-blue">
+  <img src="https://img.shields.io/badge/Status-Production%20Ready-green">
+</p>
 
-Self-Healing • Policy-Governed • Air-Gapped • Production-Ready
+> AUTONET.AI is a sovereign, self-healing enterprise AI platform that converts natural language
+> network changes into validated, simulated, risk-scored, auto-executed and self-healing
+> production infrastructure changes.
 
-Replace Manual Network Operations with Autonomous AI
 
-AUTONET.AI is a sovereign enterprise AI platform that transforms natural-language change requests into:
+---
 
-Validated
+## Why This Works
 
-Policy-Compliant
+Capsule-render banners:
 
-Digitally Simulated
+• Instantly increase perceived quality  
+• Make your repo look funded & professional  
+• Signal “platform”, not “script”  
+• Dramatically improve recruiter engagement  
 
-Auto-Executed
+---
 
-Self-Healing
-production network changes across Cisco, Palo Alto, Aruba, SD-WAN and BlueCat environments.
+Next power-ups (optional):
 
-No CAB meetings.
-No manual CLI.
-No outages.
+• Add animated metrics badges  
+• Add contributor-ready architecture diagram  
+• Add demo GIFs under the banner  
 
-Why AUTONET.AI?
-Traditional Ops	AUTONET.AI
-Manual CAB boards	AI Change Governance
-Reactive NOC	Autonomous NOC
-Periodic audits	Continuous Compliance
-Human rollbacks	Self-Healing Infrastructure
-What AUTONET.AI Does
-🧠 Natural Language → Production Change
-"Create VLAN 40 for Finance with internet access"
-        ↓
-AI validation • Risk scoring • Digital twin simulation
-        ↓
-Safe production execution • Auto-rollback if anomalies occur
+Just say which one you want.
 
-🛡️ Policy-Governed by Design
-
-RAG-based Zero-Trust policy guard
-
-PCI / ISO / SOC2 compliance engines
-
-Least-privilege firewall orchestration
-
-🧪 Digital Twin Simulation
-
-Every change is tested in a live EVE-NG digital twin before touching production.
-
-No guesswork.
-No blind deployments.
-
-🔄 Self-Healing Networks
-
-If telemetry deviates from prediction:
-
-AI detects anomalies
-
-Automatically rolls back
-
-Restores last known good state
-
-🔒 Sovereign & Air-Gapped
-
-Local LLM inference (Gemma, Mistral, LLaMA)
-
-No cloud dependency
-
-Fully compliant for regulated industries
-
-Supported Platforms
-
-Cisco Enterprise & SD-WAN
-
-Palo Alto + Panorama
-
-Aruba Wireless & ClearPass
-
-BlueCat DDI
-
-NetBox SSOT
-
-Built for Real Enterprises
-Feature	Included
-Multi-tenant RBAC	✓
-Audit-grade change trails	✓
-Deterministic AI replay	✓
-Vault-secured secrets	✓
-SLA-aware routing	✓
-Digital twin outage prevention	✓
-Pricing
-Plan	Devices	Monthly
-Starter	50	$299
-Business	250	$999
-Enterprise	Unlimited	Custom
-Who Uses AUTONET.AI?
-
-FinTech & Healthcare Networks
-
-SaaS Infrastructure Teams
-
-MSPs & MSSPs
-
-Platform & SRE Engineers
-
-Network Automation Architects
-
-Vision
-
-AUTONET.AI is building the future of autonomous digital infrastructure governance —
-where networks configure, secure, heal, and govern themselves.
