@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Local%20LLM-Gemma%20%7C%20Mistral%20%7C%20LLaMA-cyan">
   <img src="https://img.shields.io/badge/Digital%20Twin-EVE--NG-blue">
-  <img src="https://img.shields.io/badge/Status-Active%Development-green">
+  <img src="https://img.shields.io/badge/Status-Active%20Development-green">
 </p>
 
 > AUTONET.AI is a sovereign, self-healing enterprise AI platform that converts natural language
