@@ -6,9 +6,9 @@
   Autonomous Infrastructure for Cisco • Palo Alto • Aruba
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Local%20LLM-Gemma%20%2F%20Mistral%20%2F%20LLaMA-cyan">
-  <img src="https://img.shields.io/badge/Digital%20Twin-EVE--NG-blue">
-  <img src="https://img.shields.io/badge/Status-Active%20Development-green">
+  <img src="https://img.shields.io/badge/Local%20LLM-Gemma%20%2F%20Mistral%20%2F%20LLaMA-020617">
+  <img src="https://img.shields.io/badge/Digital%20Twin-EVE--NG-0f172a">
+  <img src="https://img.shields.io/badge/Status-Active%20Development-020617">
 </p>
 
 > AUTONET.AI is a sovereign, self-healing enterprise AI platform that converts natural language
