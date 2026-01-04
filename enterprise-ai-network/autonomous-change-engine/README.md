@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:020617&height=240&section=header&text=ANCE&fontSize=60&fontColor=38bdf8&animation=fadeIn&desc=Autonomous%20Network%20Change%20Engineer&descAlignY=75"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:020617&height=240&section=header&text=ANCE&fontSize=60&fontColor=38bdf8&animation=fadeIn&desc=Autonomous%20Network%20Change%20Engine&descAlignY=75"/>
 </p>
 
-<h1 align="center">ANCE — Autonomous Network Change Engineer</h1>
+<h1 align="center">ANCE — Autonomous Network Change Engine</h1>
 <p align="center">
   <b>Self-Healing • Policy-Governed • Digitally Simulated • Enterprise-Grade</b><br>
   Cisco • Palo Alto • Aruba • SD-WAN • BlueCat • NetBox
